@@ -53,7 +53,7 @@ public:
             cout << vec[i] << " ";
     }
 };  
-
+     
 int main()
 {
     //declare three vectors
