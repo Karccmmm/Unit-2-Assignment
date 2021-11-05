@@ -86,6 +86,6 @@ int main()
    //display 3 elements in the vs vector
     cout << "\n\nElements of vector vs: ";
     MyClassVector3 obj3(vs);
-    obj3.print();     
+    obj3.print();           
     return 0;
 }
