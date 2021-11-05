@@ -81,9 +81,7 @@ int main()
     MyClassVector2 obj2(vi);  
     obj2.print();
 
-    
-
-    //display the 3 elements in the vs vector
+  //display 3 elements in the vs vector
     cout << "\n\nElements of vector vs: ";
     MyClassVector3 obj3(vs);
     obj3.print();
