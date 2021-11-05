@@ -78,8 +78,10 @@ int main()
 
     //display the 3 elements in the vi vector
     cout << "\n\nElements of vector vi: ";
-    MyClassVector2 obj2(vi); rerere 
+    MyClassVector2 obj2(vi);  
     obj2.print();
+
+    
 
     //display the 3 elements in the vs vector
     cout << "\n\nElements of vector vs: ";
