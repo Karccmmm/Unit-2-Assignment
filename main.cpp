@@ -26,7 +26,6 @@ class MyClassVector2
 public:
     MyClassVector2(vector<int> v) : vec(v)
     {    
-      
     }
     void print()
     {
