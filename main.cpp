@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
- 
+                 
 class MyClassVector1
 {
     vector<int> vec;
